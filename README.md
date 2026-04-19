@@ -39,7 +39,9 @@ It identifies common vulnerabilities and shows how to fix them.
 - Understanding vulnerabilities
 - Secure coding practices
 - Risk mitigation techniques
-
+  
+## 📸 Code Review Output
+![Review](review.png)
 ---
 
 ## 👤 Author
